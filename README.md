@@ -4,7 +4,7 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 * Author: Caveman2019 (for 1.0.6 ver)
 * Updated: TheFirstNoob (For 1.0.7+)
 
-#Install
+## Install
 
 1. Download and unpack
 2. Drop all file to folder: **dayz_server\WAI\missions\missions**
@@ -18,7 +18,7 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 	["cargo",1],
 ```
 	
-#For AdminTools by BigEgg17:
+## For AdminTools by BigEgg17:
 1. Open **"dayz_server\antihack\menus\owner.sqf"** file.
 2. Find ```'patrol',```
 3. Add this code below:
@@ -30,6 +30,6 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 ```
 **FINISH:** Save all and Repack dayz_server.pbo
 
-#WARNING
+## WARNING
 All files didnt have basic stringtable.xml text!
 You can create custom stringtable.xml inside mission folder and add text for missions.
