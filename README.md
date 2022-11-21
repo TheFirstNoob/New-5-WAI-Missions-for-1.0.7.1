@@ -33,3 +33,13 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 ## WARNING
 All files didnt have basic stringtable.xml text!
 You can create custom stringtable.xml inside mission folder and add text for missions.
+
+[pic1]: (https://imgur.com/PEhTJzo "Oil Depot")
+
+[pic2]: (https://imgur.com/ZwTXYTD "Gold Mine")
+
+[pic3]: (https://imgur.com/B97NQX3 "Cargo")
+
+[pic4]: (https://imgur.com/oBSw8AB "Refugee Camp")
+
+[pic5]: (https://imgur.com/lvaMpZ7 "Fallen Satellite")
