@@ -1,7 +1,8 @@
 # New 5 WAI Missions for 1.0.7.1
 
 Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions-for-wai-223-update-will-be-posted-soon/
-Updated for Epoch 1.0.7.1
+* Author: Caveman2019 (for 1.0.6 ver)
+* Updated: TheFirstNoob (For 1.0.7+)
 
 #Install
 
