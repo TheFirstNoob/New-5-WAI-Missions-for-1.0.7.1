@@ -11,7 +11,8 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 3. Open **"dayz_server\WAI\config.sqf"** file.
 4. Find ```["patrol",1],``` in ```WAI_HeroMissions``` and ```WAI_BanditMissions```
 5. Add this code below: 
-```	["fallen_satellite",1],
+```	
+	["fallen_satellite",1],
 	["oil_depot",1],
 	["refugee",1],
 	["gold_mine",1],
