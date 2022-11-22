@@ -23,7 +23,8 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 1. Open **"dayz_server\antihack\menus\owner.sqf"** file.
 2. Find ```'patrol',```
 3. Add this code below:
-```	'cargo',
+```	
+	'cargo',
 	'fallen_satelite',
 	'gold_mine',
 	'oil_depot',
