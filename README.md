@@ -6,13 +6,13 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 
 ## Install
 
-1. Download and unpack
+1. Download and unpack: [Click](https://github.com/TheFirstNoob/New-5-WAI-Missions-for-1.0.7.1/archive/refs/heads/main.zip)
 2. Drop all file to folder: **dayz_server\WAI\missions\missions**
 3. Open **"dayz_server\WAI\config.sqf"** file.
 4. Find ```["patrol",1],``` in ```WAI_HeroMissions``` and ```WAI_BanditMissions```
 5. Add this code below: 
 ```	
-	["fallen_satellite",1],
+	["fallen_satelite",1],
 	["oil_depot",1],
 	["refugee",1],
 	["gold_mine",1],
@@ -24,11 +24,11 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 2. Find ```'patrol',```
 3. Add this code below:
 ```	
-	'cargo',
 	'fallen_satelite',
-	'gold_mine',
 	'oil_depot',
 	'refugee',
+	'gold_mine',
+	'cargo',
 ```
 **FINISH:** Save all and Repack dayz_server.pbo
 
@@ -36,12 +36,14 @@ Original: https://epochmod.com/forum/topic/45420-outdated-release-5-new-missions
 All files didnt have basic stringtable.xml text!
 You can create custom stringtable.xml inside mission folder and add text for missions.
 
-![pic1](https://imgur.com/PEhTJzo)
 
-![pic2](https://imgur.com/ZwTXYTD)
+## PICTURES
+https://imgur.com/PEhTJzo
 
-![pic3](https://imgur.com/B97NQX3)
+https://imgur.com/ZwTXYTD
 
-![pic4](https://imgur.com/oBSw8AB)
+https://imgur.com/B97NQX3
 
-![pic5](https://imgur.com/lvaMpZ7)
+https://imgur.com/oBSw8AB
+
+https://imgur.com/lvaMpZ7
